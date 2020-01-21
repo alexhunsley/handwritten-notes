@@ -1,2 +1,4 @@
-# handwritten-notes
-Misc notes on maths, computer graphics, etc
+# Alex's handwritten-notes
+
+Alex's notes on maths, computer graphics, etc. Some quite old.
+
